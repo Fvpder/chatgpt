@@ -1,5 +1,5 @@
 ﻿<?php
-$type = "个人";
+$type = "辅助交流工具";
 //  if (substr($_SERVER["REMOTE_ADDR"],0,9)!="127.0.0.1"){
 //    if (strpos($_SERVER["HTTP_USER_AGENT"],"MicroMessenger")){
 //      echo "<div style='height:100%;width:100%;text-align:center;margin-top:30%;'><h1>请点击右上角，选择”在浏览器打开“</h1></div>";
@@ -28,7 +28,7 @@ $type = "个人";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <title>ChatGPT<?= $type ?>专用版</title>
+    <title>609<?= $type ?>内部测试版</title>
     <link rel="stylesheet" href="css/common.css?v1.1">
     <link rel="stylesheet" href="css/wenda.css?v1.1">
     <link rel="stylesheet" href="css/hightlight.css">
